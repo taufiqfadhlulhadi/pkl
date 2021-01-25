@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\pkl\pkl\bin\Debug\pkl.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\bin\Debug\pkl.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\bin\Debug\pkl.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.input.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.laporan.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\pkl\pkl\obj\Debug\pkl.main_menu.resources
